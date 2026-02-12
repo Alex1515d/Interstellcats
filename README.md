@@ -7,4 +7,4 @@ It should be a game about spaceships and cats. (something like Freelancer or Eli
 [coming soon]
 
 If You want to help me develop Interstellcats or you found a bug, please write me at interstellcatsDEV@gmail.com.
-Was geht?
+
